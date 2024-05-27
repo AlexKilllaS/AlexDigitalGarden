@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9737101798e65c82",
+        "id": "ed7ea83e4e2da91c",
         "type": "tabs",
         "children": [
           {
-            "id": "2c30187b99323ca9",
+            "id": "567b67b21420be65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络/通信协议综述.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,13 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机网络/通信协议综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机网络/通信协议综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机网络/通信协议综述.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 355.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,13 +147,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2c30187b99323ca9",
+  "active": "961946436c7e3402",
   "lastOpenFiles": [
-    "Alex.md",
-    "2024-05-23.md",
-    "未命名 2.canvas",
-    "未命名 1.canvas",
+    "个人日报/24-05-26-周日.md",
+    "计算机网络/通信协议综述.md",
+    "服务器/域名备案和解析.md",
+    "框架｜中间件",
+    "服务器/阿里云初始化.md",
+    "个人日报/24-05-25-周六.md",
+    "未命名.md",
+    "服务器",
+    "个人日报/24-05-24-周五.md",
+    "Dialog Platform.md",
+    "infra/templates/Daily Record.md",
+    "成长周报",
     "未命名.canvas",
+    "2024-05-24.md",
+    "个人成长/Daily",
+    "个人日报",
+    "infra/templates",
+    "infra/imgs",
+    "infra/imgs/流程图.jpg",
+    "url.md",
+    "infra",
+    "2024-05-23.md",
+    "计算机网络",
+    "计算机网络 1.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
     "create a link.md",
     "Welcome.md"
   ]
