@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/通信协议综述.md",
+                "file": "个人日报/24-05-27-周一.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机网络/通信协议综述.md",
+                "file": "个人日报/24-05-27-周一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机网络/通信协议综述.md",
+                "file": "个人日报/24-05-27-周一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机网络/通信协议综述.md"
+                "file": "个人日报/24-05-27-周一.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,10 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "961946436c7e3402",
+  "active": "567b67b21420be65",
   "lastOpenFiles": [
-    "个人日报/24-05-26-周日.md",
     "计算机网络/通信协议综述.md",
+    "个人日报/24-05-27-周一.md",
+    "Pasted image 20240527120029.png",
+    "Pasted image 20240527111622.png",
+    "Obsidian/basic tips.md",
+    "图片名.md",
+    "infra/images/Pasted image 20240527104343.png",
+    "Obsidian",
+    "infra/images",
+    "个人日报/24-05-26-周日.md",
     "服务器/域名备案和解析.md",
     "框架｜中间件",
     "服务器/阿里云初始化.md",
@@ -171,7 +178,6 @@
     "url.md",
     "infra",
     "2024-05-23.md",
-    "计算机网络",
     "计算机网络 1.md",
     "未命名 1.canvas",
     "未命名 2.canvas",
