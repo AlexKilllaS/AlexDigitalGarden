@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed7ea83e4e2da91c",
+        "id": "5b455d424f846741",
         "type": "tabs",
         "children": [
           {
-            "id": "567b67b21420be65",
+            "id": "0e134ac11d91bd6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "服务器/阿里云初始化.md",
+                "file": "langchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "服务器/阿里云初始化.md",
+                "file": "langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "服务器/阿里云初始化.md",
+                "file": "langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "服务器/阿里云初始化.md"
+                "file": "langchain.md"
               }
             }
           }
@@ -146,27 +146,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "567b67b21420be65",
+  "active": "0e134ac11d91bd6f",
   "lastOpenFiles": [
-    "服务器/问题记录.md",
+    "README.md",
+    "langchain.md",
+    "个人日报/24-05-28-周二.md",
     "个人日报/24-05-27-周一.md",
-    "服务器/阿里云初始化.md",
+    "服务器/阿里云demo初始化.md",
+    "infra/images/Pasted image 20240527173639.png",
+    "infra/images/Pasted image 20240527120029.png",
+    "infra/images/Pasted image 20240527111622.png",
+    "infra/images/Pasted image 20240527104343.png",
+    "Obsidian/basic tips.md",
+    "服务器/问题记录.md",
     "服务器/域名备案和解析.md",
     "框架｜中间件/Tomcat.md",
     "计算机网络/通信协议综述.md",
-    "Pasted image 20240527173639.png",
-    "infra/images/Pasted image 20240527104343.png",
     "infra/images/Pasted image 20240527173548.png",
-    "infra/images/Pasted image 20240527120029.png",
-    "infra/images/Pasted image 20240527111622.png",
-    "Obsidian/basic tips.md",
     "图片名.md",
     "Obsidian",
     "infra/images",
     "个人日报/24-05-26-周日.md",
     "框架｜中间件",
     "个人日报/24-05-25-周六.md",
-    "未命名.md",
     "服务器",
     "个人日报/24-05-24-周五.md",
     "Dialog Platform.md",
