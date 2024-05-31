@@ -1,0 +1,1 @@
+https://medium.com/@truongbui95/spring-boots-application-events-36ebe09e9313

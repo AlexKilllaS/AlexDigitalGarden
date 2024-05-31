@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "服务器/阿里云demo初始化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d5339efbc3e79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活提升/健身.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0230395b33ba6be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "langchain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "langchain.md",
+                "file": "生活提升/健身.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "langchain.md",
+                "file": "生活提升/健身.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "langchain.md"
+                "file": "生活提升/健身.md"
               }
             }
           }
@@ -146,21 +171,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e134ac11d91bd6f",
+  "active": "94d5339efbc3e79c",
   "lastOpenFiles": [
-    "README.md",
     "langchain.md",
-    "个人日报/24-05-28-周二.md",
-    "个人日报/24-05-27-周一.md",
+    "生活提升/健身.md",
     "服务器/阿里云demo初始化.md",
+    "生活提升",
+    "服务器/问题记录.md",
+    "框架｜中间件/Tomcat.md",
+    "个人日报/24-05-28-周二.md",
+    "Springboot框架/spring-boots.md",
+    "README.md",
+    "Springboot框架",
+    "个人日报/24-05-27-周一.md",
     "infra/images/Pasted image 20240527173639.png",
     "infra/images/Pasted image 20240527120029.png",
     "infra/images/Pasted image 20240527111622.png",
     "infra/images/Pasted image 20240527104343.png",
     "Obsidian/basic tips.md",
-    "服务器/问题记录.md",
     "服务器/域名备案和解析.md",
-    "框架｜中间件/Tomcat.md",
     "计算机网络/通信协议综述.md",
     "infra/images/Pasted image 20240527173548.png",
     "图片名.md",
@@ -179,10 +208,8 @@
     "个人成长/Daily",
     "个人日报",
     "infra/templates",
-    "infra/imgs",
     "infra/imgs/流程图.jpg",
     "url.md",
-    "infra",
     "2024-05-23.md",
     "计算机网络 1.md",
     "未命名 1.canvas",
