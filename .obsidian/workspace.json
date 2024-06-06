@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "61bb83ba7dc36e5e",
+        "id": "cfe41dad9fcd000b",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9493831784831b",
+            "id": "375d06b10e1094c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rasa/Rasa Chat Framework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rasa/Rasa Chat Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rasa/Rasa Chat Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "rasa/Rasa Chat Framework.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +139,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9c9493831784831b",
+  "active": "375d06b10e1094c0",
   "lastOpenFiles": [
+    "rasa/Rasa Chat Framework.md",
     "rasa",
     "生活提升/健身.md",
-    "rasa/Rasa Chat Framework.md",
     "服务器/阿里云demo初始化.md",
     "langchain.md",
     "生活提升",
@@ -185,7 +177,6 @@
     "2024-05-24.md",
     "个人成长/Daily",
     "个人日报",
-    "infra/templates",
     "infra/imgs/流程图.jpg",
     "url.md",
     "2024-05-23.md",
