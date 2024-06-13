@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe41dad9fcd000b",
+        "id": "1a82e6dcc5c7d641",
         "type": "tabs",
         "children": [
           {
-            "id": "375d06b10e1094c0",
+            "id": "2770dc0201cd6e85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "java后端/java基础和进阶.canvas",
+                "viewState": {
+                  "x": -436.3807075953655,
+                  "y": -337.26767505128157,
+                  "zoom": -0.8017448908090593
+                }
+              }
             }
           }
         ]
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java后端/java基础和进阶.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java后端/java基础和进阶.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,10 +128,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "java后端/java基础和进阶.canvas"
+              }
+            }
+          },
+          {
+            "id": "4e6d29710c5a05c5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -136,54 +156,58 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "smart-gantt:Smart Gantt": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "375d06b10e1094c0",
+  "active": "2770dc0201cd6e85",
   "lastOpenFiles": [
-    "rasa/Rasa Chat Framework.md",
-    "rasa",
+    "java后端/java基础和进阶.canvas",
+    "个人日报/24-06-12-周三.md",
+    "Pasted image 20240612165536.png",
+    "Pasted image 20240612163719.png",
+    "java后端/todo.md",
+    "java后端/java基础和进阶.md",
+    "java后端/Drawing 2024-06-12 10.44.14.excalidraw.md",
+    "java后端/java后端知识画布.canvas",
+    "java后端",
+    "未命名.md",
+    "个人日报/24-06-11-周二.md",
+    "infra/images/Pasted image 20240527104343.png",
+    "Excalidraw/Drawing 2024-06-11 16.35.26.excalidraw.md",
     "生活提升/健身.md",
-    "服务器/阿里云demo初始化.md",
-    "langchain.md",
-    "生活提升",
+    "成长周报/26-06-11～16 周报.md",
+    "Obsidian/外观.md",
+    "Obsidian/basic tips.md",
     "服务器/问题记录.md",
+    "服务器/阿里云demo初始化.md",
     "框架｜中间件/Tomcat.md",
-    "个人日报/24-05-28-周二.md",
+    "计算机网络/通信协议综述.md",
+    "rasa/Rasa Chat Framework.md",
+    "langchain.md",
     "Springboot框架/spring-boots.md",
-    "README.md",
+    "Excalidraw/Drawing 2024-06-11 16.27.23.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-06-11 16.25.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-11 15.40.26.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-11 16.31.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-11 16.29.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-11 16.27.45.excalidraw.md",
+    "成长周报",
+    "infra/templates/Daily Record.md",
+    "rasa",
+    "生活提升",
     "Springboot框架",
-    "个人日报/24-05-27-周一.md",
     "infra/images/Pasted image 20240527173639.png",
     "infra/images/Pasted image 20240527120029.png",
     "infra/images/Pasted image 20240527111622.png",
-    "infra/images/Pasted image 20240527104343.png",
-    "Obsidian/basic tips.md",
-    "服务器/域名备案和解析.md",
-    "计算机网络/通信协议综述.md",
     "infra/images/Pasted image 20240527173548.png",
-    "图片名.md",
     "Obsidian",
     "infra/images",
-    "个人日报/24-05-26-周日.md",
     "框架｜中间件",
-    "个人日报/24-05-25-周六.md",
     "服务器",
-    "个人日报/24-05-24-周五.md",
-    "Dialog Platform.md",
-    "infra/templates/Daily Record.md",
-    "成长周报",
-    "未命名.canvas",
-    "2024-05-24.md",
-    "个人成长/Daily",
-    "个人日报",
     "infra/imgs/流程图.jpg",
-    "url.md",
-    "2024-05-23.md",
-    "计算机网络 1.md",
-    "未命名 1.canvas",
-    "未命名 2.canvas",
-    "create a link.md",
-    "Welcome.md"
+    "未命名 2.canvas"
   ]
 }

@@ -8,3 +8,4 @@
 	经过尝试，markdown语法控制图片居中无效，最少在我这里是无效的，所以我改用了另一种方法——嵌入HTML代码，事实证明，这种方法不但可以设置图片居中，还可以做更多的事：
 	-   其中align=”center”表示居中，同样的居左为align=”left”，居右为align=”right”；
 	- width=40%表示图片宽度为所在父窗口的40%，等比例缩放，也可以用width=200 height=100这样的方式设定图片的固定宽高。
+3. 图片插件：[Excalidraw](https://www.youtube.com/watch?v=P_Q6avJGoWI)

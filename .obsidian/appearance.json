@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian",
+  "cssTheme": ""
 }
